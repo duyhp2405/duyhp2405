@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Stephen and I'm a Fullstack Developer, from Ho Chi Minh City, Viet Nam</h2>
+<h2 align="center">Hi 👋! My name is Stephen and I'm a Fullstack Developer from Ho Chi Minh City</h2>
 
 ###
 
